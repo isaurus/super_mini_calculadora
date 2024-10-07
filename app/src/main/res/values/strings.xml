@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SuperMiniCalculadora</string>
+    <string name="num_one">Número 1:</string>
+    <string name="num_two">Número 2:</string>
+    <string name="hint_num_one">Introduzca un número entero</string>
+    <string name="hint_num_two">Introduzca un número entero</string>
+    <string name="txt_result"></string>
+    <string name="btn_sumar">+</string>
+    <string name="btn_restar">-</string>
+    <string name="btn_multiplicar">x</string>
+    <string name="btn_dividir">/</string>
+    <string name="btn_borrar">BORRAR</string>
+</resources>
